@@ -40,9 +40,10 @@ class AIResearcher:
 
 | 대회명 | 순위 | 기간 | 기술스택 |
 |--------|------|------|----------|
-| 🥈 **전력사용량 예측 AI 경진대회** | Public 8위 / Private 6위 | 2025.07-08 | LightGBM, XGBoost, Optuna |
+| 🥈 **갑상선암 진단 분류 해커톤** | 최종 3위 | 2025.07-08 | LightGBM, XGBoost, Optuna |
+| 🥈 **전력사용량 예측 AI 경진대회** | 최종 6위 / public 8위 | 2025.07-08 | LightGBM, XGBoost, Optuna |
+| 💳 **토스 NEXT ML Challenge** | 최종 30위 / public 50위 | 2025.08-09 | XGBoost, Feature Engineering |
 | 💊 **AI 신약개발 경진대회** | 참가 | 2025.06-08 | GNN (GAT/GIN), PyTorch, DGL |
-| 💳 **토스 NEXT ML Challenge** | Public 30위 | 2025.08-09 | XGBoost, Feature Engineering |
 
 ---
 
