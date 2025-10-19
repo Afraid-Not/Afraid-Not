@@ -19,7 +19,7 @@ class AIResearcher:
     def __init__(self):
         self.name = "Jaehyeon Kim"
         self.background = "Philosophy (M.A.) → AI/ML Engineering"
-        self.motto = "🤔 철학에서 AI로 | 사유하는 코드, 질문하는 모델"
+        self.motto = "개념을 코드로, 직관을 데이터로"
         self.location = "Seoul, South Korea"
         
     def current_focus(self):
@@ -41,8 +41,8 @@ class AIResearcher:
 | 대회명 | 순위 | 기간 | 기술스택 |
 |--------|------|------|----------|
 | 🥈 **갑상선암 진단 분류 해커톤** | 최종 3위 | 2025.07-08 | LightGBM, XGBoost, Optuna |
-| 🥈 **전력사용량 예측 AI 경진대회** | 최종 6위 / public 8위 | 2025.07-08 | LightGBM, XGBoost, Optuna |
-| 💳 **토스 NEXT ML Challenge** | 최종 30위 / public 50위 | 2025.08-09 | XGBoost, Feature Engineering |
+| 🥈 **전력사용량 예측 AI 경진대회** | 최종 6위 / Public 8위 | 2025.07-08 | LightGBM, XGBoost, Optuna |
+| 💳 **토스 NEXT ML Challenge** | 최종 30위 / Public 50위 | 2025.08-09 | XGBoost, Feature Engineering |
 | 💊 **AI 신약개발 경진대회** | 참가 | 2025.06-08 | GNN (GAT/GIN), PyTorch, DGL |
 
 ---
@@ -125,7 +125,9 @@ class AIResearcher:
 ### 📊 Data & Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Development
@@ -169,9 +171,9 @@ class AIResearcher:
 
 ## 🎯 2025 Goals
 
-- [ ] 📄 AI 논문 및 기술 구현 완료(2 Stage-Model / SAM2 / YOLO / Transformer / Diffusion)
+- [ ] 📄 AI 논문 및 기술 구현 완료 (2-Stage Model / SAM2 / YOLO / Transformer / Diffusion)
 - [ ] 🏆 Dacon Competition 입상
-- [ ] 🚀 KKOKKAOT 프로젝트 - AI 가상 옷장 시스템
+- [ ] 🚀 KKOKKAOT 프로젝트 - AI 가상 옷장 시스템 완성
 - [ ] 💼 Production-level AI 서비스 배포
 
 ---
