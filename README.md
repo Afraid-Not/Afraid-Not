@@ -19,7 +19,7 @@ class AIResearcher:
     def __init__(self):
         self.name = "Jaehyeon Kim"
         self.background = "Philosophy (M.A.) → AI/ML Engineering"
-        self.motto = "개념을 코드로, 직관을 데이터로"
+        self.motto = "🤔 철학에서 AI로 | 사유하는 코드, 질문하는 모델"
         self.location = "Seoul, South Korea"
         
     def current_focus(self):
@@ -41,8 +41,8 @@ class AIResearcher:
 | 대회명 | 순위 | 기간 | 기술스택 |
 |--------|------|------|----------|
 | 🥈 **전력사용량 예측 AI 경진대회** | Public 8위 / Private 6위 | 2025.07-08 | LightGBM, XGBoost, Optuna |
-| 💊 **AI 신약개발 경진대회** | 참가 | 2025 | GNN (GAT/GIN), PyTorch, DGL |
-| 💳 **토스 NEXT ML Challenge** | 참가 | 2025.09 | XGBoost, Feature Engineering |
+| 💊 **AI 신약개발 경진대회** | 참가 | 2025.06-08 | GNN (GAT/GIN), PyTorch, DGL |
+| 💳 **토스 NEXT ML Challenge** | Public 30위 | 2025.08-09 | XGBoost, Feature Engineering |
 
 ---
 
@@ -98,7 +98,7 @@ class AIResearcher:
 - React Native + PostgreSQL
 - 팀 프로젝트 (삼석사와아이들)
 
-**Tech:** `React Native` `YOLO` `PostgreSQL`
+**Tech:** `React Native` `YOLO` `PostgreSQL` `AWS` `LLM`
 
 </td>
 </tr>
@@ -168,11 +168,10 @@ class AIResearcher:
 
 ## 🎯 2025 Goals
 
-- [ ] 📄 AI 논문 20편 구현 완료
-- [ ] 🏆 Kaggle Competition 입상
-- [ ] 🚀 오픈소스 프로젝트 기여
+- [ ] 📄 AI 논문 및 기술 구현 완료(2 Stage-Model / SAM2 / YOLO / Transformer / Diffusion)
+- [ ] 🏆 Dacon Competition 입상
+- [ ] 🚀 KKOKKAOT 프로젝트 - AI 가상 옷장 시스템
 - [ ] 💼 Production-level AI 서비스 배포
-- [ ] 📝 기술 블로그 운영 시작
 
 ---
 
