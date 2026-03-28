@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=200&section=header&text=Jaehyeon%20Kim&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Philosophy%20(M.A.)%20%E2%86%92%20ML%2FDL%20Pipeline%20Engineer&descSize=16&descAlignY=55&descColor=58a6ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Jaehyeon%20Kim&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Philosophy%20(M.A.)%20%E2%86%92%20AI%2FML%20Engineering&descSize=20&descAlignY=50&descColor=ffffff" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%EC%82%AC%EC%9C%A0%ED%95%98%EB%8A%94+%EC%BD%94%EB%93%9C%2C+%EC%A7%88%EB%AC%B8%ED%95%98%EB%8A%94+%EB%AA%A8%EB%8D%B8;%EC%97%B0%EA%B5%AC%EC%99%80+%EA%B0%9C%EB%B0%9C%EB%A1%9C+%EC%84%B8%EC%83%81%EC%97%90+%EB%8F%84%EC%9B%80%EC%9D%84;%EB%B3%B8%EC%A7%88%EC%9D%84+%EB%AC%BB%EA%B3%A0%2C+%EB%AA%A8%EB%8D%B8%EB%A1%9C+%EB%8B%B5%ED%95%98%EB%8B%A4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%EC%82%AC%EC%9C%A0%ED%95%98%EB%8A%94+%EC%BD%94%EB%93%9C%2C+%EC%A7%88%EB%AC%B8%ED%95%98%EB%8A%94+%EB%AA%A8%EB%8D%B8;%EC%97%B0%EA%B5%AC%EC%99%80+%EA%B0%9C%EB%B0%9C%EB%A1%9C+%EC%84%B8%EC%83%81%EC%97%90+%EB%8F%84%EC%9B%80%EC%9D%84;%EB%B3%B8%EC%A7%88%EC%9D%84+%EB%AC%BB%EA%B3%A0%2C+%EB%AA%A8%EB%8D%B8%EB%A1%9C+%EB%8B%B5%ED%95%98%EB%8B%A4)](https://git.io/typing-svg)
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Afraid-Not?style=for-the-badge&logo=github&color=00FF41&labelColor=0d1117)](https://github.com/Afraid-Not)
+[![GitHub followers](https://img.shields.io/github/followers/Afraid-Not?style=for-the-badge&logo=github&color=667eea&labelColor=1a1b27)](https://github.com/Afraid-Not)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Afraid-Not&style=for-the-badge&color=00FF41&label=VIEWS)](https://github.com/Afraid-Not)
+[![Profile Views](https://komarev.com/ghpvc/?username=Afraid-Not&style=for-the-badge&color=667eea)](https://github.com/Afraid-Not)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-kimjaehyun9605-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kimjaehyun9605@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-kimjaehyun9605-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimjaehyun9605@gmail.com)
 
 </div>
 
 <br>
 
-## About
+## 🧠 About
 
 ```bash
 $ whoami
@@ -37,7 +37,7 @@ $ ls skills/
 
 ---
 
-## Competition
+## 🏆 Competition
 
 <div align="center">
 
@@ -53,9 +53,9 @@ $ ls skills/
 
 ---
 
-## Projects
+## 💼 Projects
 
-### // AI Applications
+### 🚀 AI Applications
 
 <table>
 <tr>
@@ -137,7 +137,7 @@ XGBoost + LightGBM 앙상블<br>
 </tr>
 </table>
 
-### // Team Project — [NeuRack4](https://github.com/NeuRack4)
+### 🐕 Team Project — [NeuRack4](https://github.com/NeuRack4)
 
 <table>
 <tr>
@@ -168,7 +168,7 @@ EfficientNetB0 — **85.52% accuracy** 달성
 </tr>
 </table>
 
-### // Competition
+### 🏆 Competition
 
 <table>
 <tr>
@@ -224,7 +224,7 @@ GNN (GAT/GIN) + DNN 멀티모달<br>
 </tr>
 </table>
 
-### // Research & Lab
+### 🔬 Research & Lab
 
 <table>
 <tr>
@@ -309,69 +309,69 @@ Cat Detection, Pose Estimation
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 #### Languages
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### AI / ML
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![LightGBM](https://img.shields.io/badge/LightGBM-0d1117?style=for-the-badge&logoColor=02569B)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logoColor=FF6600)
-![Optuna](https://img.shields.io/badge/Optuna-0d1117?style=for-the-badge&logoColor=4B32C3)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-4B32C3?style=for-the-badge)
 
 #### Computer Vision
 
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![YOLO](https://img.shields.io/badge/YOLO-0d1117?style=for-the-badge&logoColor=00FFFF)
-![SAM2](https://img.shields.io/badge/SAM2-0d1117?style=for-the-badge&logoColor=4285F4)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![SAM2](https://img.shields.io/badge/SAM2-4285F4?style=for-the-badge)
 
 #### Data & Tools
 
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### Development
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Afraid-Not&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afraid-Not&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Afraid-Not&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afraid-Not&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 
 <br>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Afraid-Not&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Afraid-Not&theme=tokyonight&hide_border=true&background=1a1b27" />
 
 <br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Afraid-Not&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=00FF41&point=00FF41&area=true&area_color=00FF4130" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Afraid-Not&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" />
 
 </div>
 
 ---
 
-## Vision
+## 🎯 Vision
 
 <div align="center">
 
@@ -384,12 +384,12 @@ Cat Detection, Pose Estimation
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Afraid--Not-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afraid-Not)
+[![GitHub](https://img.shields.io/badge/GitHub-Afraid--Not-181717?style=for-the-badge&logo=github)](https://github.com/Afraid-Not)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-kimjaehyun9605-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kimjaehyun9605@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-kimjaehyun9605-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimjaehyun9605@gmail.com)
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" />
