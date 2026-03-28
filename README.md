@@ -56,66 +56,224 @@ class JaehyeonKim:
 
 ### 🚀 AI Applications
 
-<div align="center">
-<a href="https://github.com/Afraid-Not/kkokkaot">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=kkokkaot&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/dog-ai-agent">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=dog-ai-agent&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/it_dai-y_news">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=it_dai-y_news&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/Stock_Price_AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=Stock_Price_AI&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/market_price">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=market_price&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/HR_AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=HR_AI&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 👔 [kkokkaot](https://github.com/Afraid-Not/kkokkaot)
+
+**AI 가상 옷장 & 스타일 추천 서비스**
+
+YOLOv11 + SAM2 의류 탐지, LLM 스타일 추천<br>
+React Native + PostgreSQL + AWS 풀스택
+
+`Python` `YOLO` `SAM2` `LLM` `React Native` `AWS`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐕 [dog-ai-agent](https://github.com/Afraid-Not/dog-ai-agent)
+
+**반려견 AI 에이전트**
+
+AI 기반 반려견 케어 & 상담 서비스<br>
+AI Service + Backend + Frontend 풀스택
+
+`Python` `FastAPI` `AI Agent`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📰 [it_dai-y_news](https://github.com/Afraid-Not/it_dai-y_news)
+
+**IT AI 데일리 뉴스**
+
+AI 기반 IT 뉴스 큐레이션 서비스<br>
+Backend + Frontend 풀스택 구성
+
+`Python` `FastAPI` `Full-Stack`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 [Stock_Price_AI](https://github.com/Afraid-Not/Stock_Price_AI)
+
+**주가 예측 AI**
+
+11개 버전 반복 실험 (v1~v11)<br>
+강화학습(RL) 기반 트레이딩 전략 포함
+
+`Python` `Reinforcement Learning` `Time Series`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💹 [market_price](https://github.com/Afraid-Not/market_price)
+
+**시장 가격 예측**
+
+시장 데이터 분석 & 가격 예측 모델
+
+`Python` `Data Analysis` `ML`
+
+</td>
+<td width="50%" valign="top">
+
+#### 👥 [HR_AI](https://github.com/Afraid-Not/HR_AI)
+
+**HR 데이터 분석 & 예측**
+
+XGBoost + LightGBM 앙상블<br>
+체계적 파이프라인 (EDA → 전처리 → 모델링)
+
+`Python` `XGBoost` `LightGBM` `Ensemble`
+
+</td>
+</tr>
+</table>
 
 ### 🏆 Competition
 
-<div align="center">
-<a href="https://github.com/Afraid-Not/Energy-miniProject">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=Energy-miniProject&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/Toss-miniProject">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=Toss-miniProject&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/Drug-miniProject">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=Drug-miniProject&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/physics-ai-dacon">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=physics-ai-dacon&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚡ [Energy-miniProject](https://github.com/Afraid-Not/Energy-miniProject)
+
+**전력사용량 예측 AI 경진대회 | TOP 6**
+
+SMAPE 5.15% 달성<br>
+LightGBM + XGBoost 앙상블, 시계열 Feature Engineering
+
+`Python` `LightGBM` `XGBoost` `Optuna`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💳 [Toss-miniProject](https://github.com/Afraid-Not/Toss-miniProject)
+
+**토스 NEXT ML Challenge | TOP 30**
+
+광고 클릭률(CTR) 예측 모델<br>
+Feature Engineering + 개발보고서 포함
+
+`Python` `XGBoost` `Feature Engineering`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💊 [Drug-miniProject](https://github.com/Afraid-Not/Drug-miniProject)
+
+**AI 신약개발 경진대회**
+
+GNN (GAT/GIN) + DNN 멀티모달<br>
+분자 구조 기반 약물 특성 예측
+
+`Python` `PyTorch` `DGL` `GNN` `RDKit`
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚛️ [physics-ai-dacon](https://github.com/Afraid-Not/physics-ai-dacon)
+
+**물리 AI 데이콘 | 진행중**
+
+물리 법칙 기반 AI 모델링
+
+`Python` `Physics-Informed AI`
+
+</td>
+</tr>
+</table>
 
 ### 🔬 Research & Lab
 
-<div align="center">
-<a href="https://github.com/Afraid-Not/Paper-Review">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=Paper-Review&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/Reinforcement_Learning">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=Reinforcement_Learning&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/AI-study">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=AI-study&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/pipelines">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=pipelines&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/working">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=working&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Afraid-Not/dev0314">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afraid-Not&repo=dev0314&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📄 [Paper-Review](https://github.com/Afraid-Not/Paper-Review)
+
+**AI 논문 구현 아카이브**
+
+GAN / VAE / DDPM / DDIM 구현<br>
+YOLOv1~v11 재현, SAM2 구현
+
+`Python` `PyTorch` `OpenCV` `Ultralytics`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎮 [Reinforcement_Learning](https://github.com/Afraid-Not/Reinforcement_Learning)
+
+**강화학습 3D Bin Packing**
+
+물리 엔진 기반 RL 환경 구축<br>
+Reward System + 학습 파이프라인
+
+`Python` `RL` `Physics Engine`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📚 [AI-study](https://github.com/Afraid-Not/AI-study)
+
+**AI 학습 아카이브 (3개월 집중)**
+
+1300+ Python files, 100+ commits<br>
+CNN, RNN, LSTM, AutoEncoder, LLM 구현
+
+`PyTorch` `TensorFlow` `Keras` `scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔧 [pipelines](https://github.com/Afraid-Not/pipelines)
+
+**ML 학습 파이프라인**
+
+CNN / SAM1 / SAM2 / YOLO 학습 스크립트<br>
+재사용 가능한 학습 파이프라인 모듈
+
+`Python` `PyTorch` `YOLO` `SAM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧪 [working](https://github.com/Afraid-Not/working)
+
+**AI 실험 워크스페이스**
+
+Anti-Spoofing, DETR, GAN, rPPG 실험<br>
+Computer Vision 연구 프로토타이핑
+
+`Python` `PyTorch` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🖥️ [dev0314](https://github.com/Afraid-Not/dev0314)
+
+**CV 개발 프로젝트**
+
+VisionFocus-AI, Face Recognition<br>
+Cat Detection, Pose Estimation
+
+`Python` `YOLO` `OpenCV` `FastAPI`
+
+</td>
+</tr>
+</table>
 
 ---
 
