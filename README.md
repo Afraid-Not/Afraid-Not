@@ -18,20 +18,21 @@
 
 ## 🧠 About
 
-```python
-class JaehyeonKim:
-    def __init__(self):
-        self.name = "Jaehyeon Kim"
-        self.background = "Philosophy (M.A.) → AI/ML Engineering"
-        self.location = "Seoul, South Korea"
-        self.vision = "연구와 개발을 통해 사람들에게 도움이 되는 것을 만든다"
+```bash
+$ whoami
+  Jaehyeon Kim — ML/DL Pipeline Engineer
 
-    def expertise(self):
-        return {
-            "AI/ML": ["Deep Learning", "Computer Vision", "GNN", "Reinforcement Learning"],
-            "Data": ["Time Series Forecasting", "Feature Engineering", "Tabular ML"],
-            "Dev": ["FastAPI", "React Native", "PostgreSQL", "Docker", "AWS"]
-        }
+$ cat background.txt
+  Philosophy (M.A.) → AI/ML Engineering
+  Seoul, South Korea
+
+$ echo $VISION
+  "연구와 개발을 통해 사람들에게 도움이 되는 것을 만든다"
+
+$ ls skills/
+  AI/ML     ── Deep Learning, Computer Vision, GNN, Reinforcement Learning
+  Data      ── Time Series, Feature Engineering, Tabular ML
+  Serving   ── FastAPI, React Native, PostgreSQL, Docker, AWS
 ```
 
 ---
