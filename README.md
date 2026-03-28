@@ -136,6 +136,37 @@ XGBoost + LightGBM 앙상블<br>
 </tr>
 </table>
 
+### 🐕 Team Project — [NeuRack4](https://github.com/NeuRack4)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🍽️ [dog-ai-agent_mvp](https://github.com/NeuRack4/dog-ai-agent_mvp)
+
+**댕미슐랭 — AI 반려견 맞춤 영양 추천 서비스**
+
+사진으로 견종 식별 → 유전 질환 기반 맞춤 영양 추천<br>
+GradCAM 시각화, RAG 챗봇, 커뮤니티 기능
+
+`React Native` `FastAPI` `TensorFlow` `GPT-4o` `Supabase` `GradCAM`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔬 [dog-classifier-models](https://github.com/NeuRack4/dog-classifier-models)
+
+**견종 분류 모델 백본 비교 연구**
+
+Stanford Dogs 120종 대상 Transfer Learning<br>
+EfficientNetB0 — **85.52% accuracy** 달성
+
+`TensorFlow` `MobileNet` `EfficientNet` `GradCAM`
+
+</td>
+</tr>
+</table>
+
 ### 🏆 Competition
 
 <table>
